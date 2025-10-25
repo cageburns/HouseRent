@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|c:\\users\\kelly\\downloads\\08-exercise-ci-cd-github-actions-resources\\04-house-renting-system-app\\houserentingsystem.services\\houserentingsystem.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|solutionrelative:houserentingsystem.services\\houserentingsystem.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9E98B03C-8D51-48E2-92AB-9BEECB694190}|HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj|c:\\users\\kelly\\downloads\\08-exercise-ci-cd-github-actions-resources\\04-house-renting-system-app\\houserentingsystem.web\\houserentingsystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E98B03C-8D51-48E2-92AB-9BEECB694190}|HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj|solutionrelative:houserentingsystem.web\\houserentingsystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30EAC5CD-4738-49AC-8D8B-7742D296C306}|HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj|c:\\users\\kelly\\downloads\\08-exercise-ci-cd-github-actions-resources\\04-house-renting-system-app\\houserentingsystem.tests\\houserentingsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{30EAC5CD-4738-49AC-8D8B-7742D296C306}|HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj|solutionrelative:houserentingsystem.tests\\houserentingsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E98B03C-8D51-48E2-92AB-9BEECB694190}|HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj|c:\\users\\kelly\\downloads\\08-exercise-ci-cd-github-actions-resources\\04-house-renting-system-app\\houserentingsystem.web\\houserentingsystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9E98B03C-8D51-48E2-92AB-9BEECB694190}|HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj|solutionrelative:houserentingsystem.web\\houserentingsystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|c:\\users\\kelly\\downloads\\08-exercise-ci-cd-github-actions-resources\\04-house-renting-system-app\\houserentingsystem.services\\houserentingsystem.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|solutionrelative:houserentingsystem.services\\houserentingsystem.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HouseRentingSystem.Web",
-              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
-              "RelativeDocumentMoniker": "HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
-              "ToolTip": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
-              "RelativeToolTip": "HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-25T18:42:42.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HouseRentingSystem.Tests",
-              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
-              "RelativeDocumentMoniker": "HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
-              "ToolTip": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
-              "RelativeToolTip": "HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-25T18:42:38.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HouseRentingSystem.Services",
-              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
-              "RelativeDocumentMoniker": "HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
-              "ToolTip": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
-              "RelativeToolTip": "HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-25T18:42:07.891Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -106,6 +67,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HouseRentingSystem.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+              "RelativeToolTip": "HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T18:42:42.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HouseRentingSystem.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
+              "RelativeToolTip": "HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T18:42:38.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HouseRentingSystem.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\08-Exercise-CI-CD-GitHub-Actions-Resources\\04-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+              "RelativeToolTip": "HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T18:42:07.891Z",
+              "EditorCaption": ""
             }
           ]
         }
